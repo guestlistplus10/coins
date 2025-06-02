@@ -2,7 +2,7 @@
     "name": "King",
     "symbol": "KING",
     "description": "Ich bin King",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "image": "https://raw.githubusercontent.com/guestlistplus10/coins/refs/heads/main/KING.png",
     "attributes": [
       {
         "trait_type": "Item",
